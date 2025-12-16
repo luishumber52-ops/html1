@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Productos</title>
+    <script src="Js/mercadito.js"></script>
+</head>
+<body  onload="cargarProductos()"> 
+    <table align="center" width="500px">
+        <tr>
+            <td>producto</td>
+            <td>
+                <select name="productos" id="productos">
+            <td>
+        </tr>
+        <tr>
+            <td>cantidad</td>
+            <td>
+                <input type="number" id="cantidad" id="cantidad" >
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <button type= "button" onclick="calcularTotal()" id="agregar">calcular precio</button>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <span id="resultado">$0</span>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
