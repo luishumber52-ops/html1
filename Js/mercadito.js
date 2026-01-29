@@ -26,6 +26,11 @@ function calcularTotal() {
     var productoSeleccionado = document.getElementById("productos").value;
     var cantidad = document.getElementById("cantidad").value;
     if (cantidad<0) {
+
+
+
+
+        
         alert("La cantidad no puede ser negativa");
         return;
     }
