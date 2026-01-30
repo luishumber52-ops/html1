@@ -1,0 +1,30 @@
+001;Arroz 1kg;5000;30
+002;Azúcar 1kg;4500
+003;Sal 1kg;2000
+004;Aceite vegetal 1L;9000
+005;Harina de trigo 1kg;4000
+006;Pasta 500g;2500
+007;Lentejas 500g;3000
+008;Frijol 500g;3500
+009;Café 500g;12000
+010;Chocolate en polvo 500g;8500
+011;Leche larga vida 1L;3800
+012;Huevos cubeta x30;18000
+013;Pan tajado;4500
+014;Galletas paquete;3000
+015;Atún en lata;5500
+016;Sardinas en lata;4000
+017;Mayonesa 500g;7000
+018;Salsa de tomate 500g;6500
+019;Avena 500g;2800
+020;Cereal caja;9500
+021;Jugo en caja 1L;4200
+022;Gaseosa 1.5L;5200
+023;Agua botella 600ml;2000
+024;Papel higiénico paquete x4;6500
+025;Jabón de baño;2500;
+026;Detergente 500g;4200;
+027;Lavaloza 750ml;4800;
+028;Cloro 1L;3000
+029;Esponja para lavar;1500
+030;Bolsa de basura paquete;5000
