@@ -1,0 +1,9 @@
+h1, h2 {
+    color: red;
+    font-size: 24px;
+    background-color: yellow;
+    /* Agrega un margen superior de 10 píxeles */
+    margin-top: 10px;
+    border: 2px dashed black;
+    padding-left: 15px;
+}

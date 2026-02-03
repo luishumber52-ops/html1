@@ -1,0 +1,48 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+div {
+    position: absolute;
+    border: 2px solid black;
+    width: 100%;
+    height: 100%;
+   
+}
+
+.superior {
+    top: 8%;
+}
+
+.inferior {
+    bottom: 8%;
+}
+
+.interior {
+    width: 40%;
+    height: 40%;
+    border-radius: 50px;
+    box-shadow: 10px 10px grey;
+}
+
+.interior:hover {
+    background-color: yellow;
+}
+.izquierda {
+    left: 8%;
+    background-color: red;
+}
+
+.derecha {
+   
+    right: 8%;
+    background-color: green;
+
+}
+
+#id1 {
+    background-color: blue;
+}
